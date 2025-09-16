@@ -11,5 +11,14 @@ A simple web application built using **Flask** and **OpenCV** that detects **fac
 - Web interface with **live video stream**
 - Built with **Flask**, **OpenCV**, and **HTML**
 
+---
+
+## Tech Stack
+
+Python 3
+Flask
+OpenCV
+HTML (Jinja templates)
+
 
 
