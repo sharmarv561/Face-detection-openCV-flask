@@ -15,10 +15,10 @@ A simple web application built using **Flask** and **OpenCV** that detects **fac
 
 ## Tech Stack
 
-Python 3
-Flask
-OpenCV
-HTML (Jinja templates)
+- Python 3
+- Flask
+- OpenCV
+- HTML (Jinja templates)
 
 
 
